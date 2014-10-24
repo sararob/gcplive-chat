@@ -1,0 +1,9 @@
+{
+  "firebase": "gcplive-chat",
+  "public": ".",
+  "ignore": [
+    "firebase.json",
+    ".*",
+    "**/node_modules/**"
+  ]
+}
